@@ -1,7 +1,7 @@
 # title: Megaball
 # author: Adam
 # desc: An arcade ball physics game
-# site: https://github.com/kitao/megaball
+# site: https://github.com/helpcomputer/megaball
 # license: MIT
 # version: 1.0
 
